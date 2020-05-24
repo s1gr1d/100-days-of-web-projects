@@ -23,7 +23,7 @@ I am using the [gitmoji](https://gitmoji.carloscuesta.me/) emoji guide for commi
 
 | **№** | **Link to Directory**                                        | **URL**          | **I am/was creating it with ...** |
 | :---: | :----------------------------------------------------------- | :--------------- | --------------------------------- |
-|   1   | [Animal Crossing GraphQL API](https://github.com/s1gr1d/animal-crossing-graphql-api) | not yet deployed | Nest.js, TypeScript, GraphQL      |
+|   1   | [Animal Crossing GraphQL API](https://github.com/s1gr1d/100-days-of-web-projects/tree/master/projects/1_animal-crossing-graphQL-API) | not yet deployed | Nest.js, TypeScript, GraphQL      |
 |   2   |                                                              |                  |                                   |
 |   3   |                                                              |                  |                                   |
 |   4   |                                                              |                  |                                   |
