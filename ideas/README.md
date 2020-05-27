@@ -5,6 +5,7 @@
   - be able to include spaces, emojis etc.
 - [ ] Soundboard
 - [ ] Pomodoro Timer
+- [ ] Gratitude list (reasons to be happy today)
 
 ## Medium Projects (over 15h)
 
