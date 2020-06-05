@@ -21,19 +21,19 @@ I am using the [gitmoji](https://gitmoji.carloscuesta.me/) emoji guide for commi
 
 ## 📅 Projects
 
-| **№** | **Link to Directory**                                        | **URL**          | **I am/was creating it with ...** |
-| :---: | :----------------------------------------------------------- | :--------------- | --------------------------------- |
-|   1   | [Animal Crossing GraphQL API](https://github.com/s1gr1d/100-days-of-web-projects/tree/master/projects/1_animal-crossing-graphQL-API) | not yet deployed | Nest.js, TypeScript, GraphQL      |
-|   2   |        [Fav Color Picker](https://github.com/s1gr1d/100-days-of-web-projects/tree/master/projects/3_fav-color-picker)                                                      |                  |                                   |
-|   3   | [Gratitude Log](https://github.com/s1gr1d/100-days-of-web-projects/tree/master/projects/3_gratitude-log) |                  | Elm 0.19.1                        |
-|   4   |                                                              |                  |                                   |
-|   5   |                                                              |                  |                                   |
-|   6   |                                                              |                  |                                   |
-|   7   |                                                              |                  |                                   |
-|   8   |                                                              |                  |                                   |
-|   9   |                                                              |                  |                                   |
-|  10   |                                                              |                  |                                   |
-|  ...  |                                                              |                  |                                   |
+| **№** | **Link to Directory**                                        | **URL**                                                      | **I am/was creating it with ...** |
+| :---: | :----------------------------------------------------------- | :----------------------------------------------------------- | --------------------------------- |
+|   1   | [Animal Crossing GraphQL API](https://github.com/s1gr1d/100-days-of-web-projects/tree/master/projects/1_animal-crossing-graphQL-API) | not yet deployed                                             | Nest.js, TypeScript, GraphQL      |
+|   2   | [Fav Color Picker](https://github.com/s1gr1d/100-days-of-web-projects/tree/master/projects/3_fav-color-picker) |                                                              |                                   |
+|   3   | [Gratitude Log](https://github.com/s1gr1d/100-days-of-web-projects/tree/master/projects/3_gratitude-log) | [HTML Preview](http://htmlpreview.github.io/?https://rawcdn.githack.com/s1gr1d/100-days-of-web-projects/ba89bfc46911a5406afa808b6575e0b1597bde84/projects/3_gratitude-log/index.html) | Elm 0.19.1                        |
+|   4   |                                                              |                                                              |                                   |
+|   5   |                                                              |                                                              |                                   |
+|   6   |                                                              |                                                              |                                   |
+|   7   |                                                              |                                                              |                                   |
+|   8   |                                                              |                                                              |                                   |
+|   9   |                                                              |                                                              |                                   |
+|  10   |                                                              |                                                              |                                   |
+|  ...  |                                                              |                                                              |                                   |
 
 ## Ideas and Contributions
 
