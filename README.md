@@ -24,8 +24,8 @@ I am using the [gitmoji](https://gitmoji.carloscuesta.me/) emoji guide for commi
 | **№** | **Link to Directory**                                        | **URL**          | **I am/was creating it with ...** |
 | :---: | :----------------------------------------------------------- | :--------------- | --------------------------------- |
 |   1   | [Animal Crossing GraphQL API](https://github.com/s1gr1d/100-days-of-web-projects/tree/master/projects/1_animal-crossing-graphQL-API) | not yet deployed | Nest.js, TypeScript, GraphQL      |
-|   2   |                                                              |                  |                                   |
-|   3   |                                                              |                  |                                   |
+|   2   |        [Fav Color Picker](https://github.com/s1gr1d/100-days-of-web-projects/tree/master/projects/3_fav-color-picker)                                                      |                  |                                   |
+|   3   | [Gratitude Log](https://github.com/s1gr1d/100-days-of-web-projects/tree/master/projects/3_gratitude-log) |                  | Elm 0.19.1                        |
 |   4   |                                                              |                  |                                   |
 |   5   |                                                              |                  |                                   |
 |   6   |                                                              |                  |                                   |
@@ -33,46 +33,6 @@ I am using the [gitmoji](https://gitmoji.carloscuesta.me/) emoji guide for commi
 |   8   |                                                              |                  |                                   |
 |   9   |                                                              |                  |                                   |
 |  10   |                                                              |                  |                                   |
-|  11   |                                                              |                  |                                   |
-|  12   |                                                              |                  |                                   |
-|  13   |                                                              |                  |                                   |
-|  14   |                                                              |                  |                                   |
-|  15   |                                                              |                  |                                   |
-|  16   |                                                              |                  |                                   |
-|  17   |                                                              |                  |                                   |
-|  18   |                                                              |                  |                                   |
-|  19   |                                                              |                  |                                   |
-|  20   |                                                              |                  |                                   |
-|  21   |                                                              |                  |                                   |
-|  22   |                                                              |                  |                                   |
-|  23   |                                                              |                  |                                   |
-|  24   |                                                              |                  |                                   |
-|  25   |                                                              |                  |                                   |
-|  26   |                                                              |                  |                                   |
-|  27   |                                                              |                  |                                   |
-|  28   |                                                              |                  |                                   |
-|  29   |                                                              |                  |                                   |
-|  30   |                                                              |                  |                                   |
-|  31   |                                                              |                  |                                   |
-|  32   |                                                              |                  |                                   |
-|  33   |                                                              |                  |                                   |
-|  34   |                                                              |                  |                                   |
-|  35   |                                                              |                  |                                   |
-|  36   |                                                              |                  |                                   |
-|  37   |                                                              |                  |                                   |
-|  38   |                                                              |                  |                                   |
-|  39   |                                                              |                  |                                   |
-|  40   |                                                              |                  |                                   |
-|  41   |                                                              |                  |                                   |
-|  42   |                                                              |                  |                                   |
-|  43   |                                                              |                  |                                   |
-|  44   |                                                              |                  |                                   |
-|  45   |                                                              |                  |                                   |
-|  46   |                                                              |                  |                                   |
-|  47   |                                                              |                  |                                   |
-|  48   |                                                              |                  |                                   |
-|  49   |                                                              |                  |                                   |
-|  50   |                                                              |                  |                                   |
 |  ...  |                                                              |                  |                                   |
 
 ## Ideas and Contributions
@@ -84,6 +44,7 @@ I am using the [gitmoji](https://gitmoji.carloscuesta.me/) emoji guide for commi
 - [ Flavio Copes  - A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/) 
 - [Mega Project List](https://github.com/karan/Projects) 
 - [mark ammay - 100 Creative Ideas For A Website](http://www.markammay.com/100-creative-ideas-for-a-website/)
+- [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas)
 
 ## More 100 Projects
 - [jessabean](https://github.com/jessabean/100-javascript-projects) 
