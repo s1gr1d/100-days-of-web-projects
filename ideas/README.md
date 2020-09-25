@@ -6,11 +6,12 @@
 - [ ] Soundboard
 - [ ] Pomodoro Timer
 - [ ] Gratitude list (reasons to be happy today)
+- [ ] Curated list of non-Google alternatives
 
-## Medium Projects (over 15h)
-
-
-
-## Big Projects (over 30h)
+## Not so small Projects
 
 - [ ] Animal Crossing GraphQL API
+- [ ] Online book of friends
+- [ ] Postcard generator to send virtual postcards
+- [ ] Collection of ethical brands
+
